@@ -4,11 +4,11 @@
 
 - 🚀 I'm studying **Computer Science** with a minor in **Business** at Mizzou's College of Engineering, graduating May 2028
 - 💼 Currently a **Technology Product Development Intern** at **Stifel Financial Corp.**, working across engineering teams on their Treasury platform
-- ☁️ Past internships in **Cloud Engineering** (AWS/Docker) and **GIS Analysis** (ArcGIS) — [See my LinkedIn!](https://linkedin.com/in/your-handle)
-- 🏆 Won **Most Creative Award** at Missouri Hacks building an interactive game in Python/PyGame — [Check it out!](https://github.com/your-username)
-- 🧮 Built an **Academic Score Calculator** in Java for fair, OOP-driven academic incentive scoring — [See the project!](https://github.com/your-username)
+- ☁️ Past internships in **Cloud Engineering** (AWS/Docker) and **GIS Analysis** (ArcGIS) — [See my LinkedIn!](https://linkedin.com/elifassler)
+- 🏆 Won **Most Creative Award** at Missouri Hacks building an interactive game in Python/PyGame — [Check it out!](https://github.com/elifassler)
+- 🧮 Built an **Academic Score Calculator** in Java for fair, OOP-driven academic incentive scoring — [See the project!](https://github.com/elifassler)
 - 🤖 Exploring **AI-assisted development** with Claude Code and Amazon Q — interested in Forward Deployed Engineering roles
-- 📌 All of my projects are available on my [GitHub Repositories!](https://github.com/your-username?tab=repositories)
+- 📌 All of my projects are available on my [GitHub Repositories!](https://github.com/elifasser?tab=repositories)
 - 💬 Ask me about: **why I'm drawn to the intersection of tech and business**
 - 📫 How to reach me: elijah.fassler@gmail.com
 - ⚡ Fun fact: **I'm VP of Academic Excellence for my fraternity chapter — I built the scoring system myself**
@@ -17,7 +17,7 @@
 
 ### Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/your-handle" target="_blank">
+<a href="https://linkedin.com/in/elifassler" target="_blank">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="linkedin" width="32" height="32" style="filter: invert(45%) sepia(87%) saturate(1613%) hue-rotate(190deg);"/>
 </a>
 </p>
