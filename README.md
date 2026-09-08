@@ -3,14 +3,23 @@
 <h3 align="center">🎓 Computer Science + Business @ University of Missouri 🎓</h3>
 
 - 🚀 I'm studying **Computer Science** with a minor in **Business** at Mizzou's College of Engineering, graduating May 2028
+
 - 💼 Currently a **Technology Product Development Intern** at **Stifel Financial Corp.**, working across engineering teams on their Treasury platform
+  
 - ☁️ Past internships in **Cloud Engineering** (AWS/Docker) and **GIS Analysis** (ArcGIS) — [See my LinkedIn!](https://linkedin.com/elifassler)
+  
 - 🏆 Won **Most Creative Award** at Missouri Hacks building an interactive game in Python/PyGame — [Check it out!](https://github.com/elifassler)
+  
 - 🧮 Built an **Academic Score Calculator** in Java for fair, OOP-driven academic incentive scoring — [See the project!](https://github.com/elifassler)
+  
 - 🤖 Exploring **AI-assisted development** with Claude Code and Amazon Q — interested in Forward Deployed Engineering roles
+  
 - 📌 All of my projects are available on my [GitHub Repositories!](https://github.com/elifasser?tab=repositories)
+  
 - 💬 Ask me about: **why I'm drawn to the intersection of tech and business**
+  
 - 📫 How to reach me: elijah.fassler@gmail.com
+  
 - ⚡ Fun fact: **I'm VP of Academic Excellence for my fraternity chapter — I built the scoring system myself**
 
 <br>
