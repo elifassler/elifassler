@@ -1,5 +1,3 @@
-## 👋 Hi, I'm is Eli Fassler 👋
-
 <h1 align="center">👋 Hi, I'm Elijah Fassler 👋</h1>
 
 <h3 align="center">🎓 Computer Science + Business @ University of Missouri 🎓</h3>
